@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>topYB IJRG — Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="header-placeholder"></div>
 
+  <main>
+    <section class="hero">
+      <h2>About topYB</h2>
+      <p class="subtitle">
+        <strong>Low-dimensional topology and the Yang–Baxter equation (topYB)</strong> is an International Joint Research Group (IJRG)
+        between <strong>Vrije Universiteit Brussel (VUB), Belgium</strong> and the <strong>University of Leeds (UK)</strong>.
+      </p>
+
+      <div class="notice">
+        <strong>Mission.</strong> We aim to explore a discrete version of the celebrated Yang–Baxter equation, their algebraic structures
+        and application to low-dimensional topology.
+      </div>
+
+      <p style="margin-top: 1rem;">
+        Apart from focusing on algebra and topology, we explore the intersection of these fields with other areas in pure mathematics,
+        such as <strong>Hopf–Galois structures</strong> and <strong>Topological Quantum Field Theory</strong>.
+        Additionally, we expand our research into computer science, particularly through <strong>constraint programming</strong> techniques
+        to construct solutions with special properties and to facilitate interdisciplinary contributions.
+      </p>
+
+      <div class="badge-row">
+        <span class="badge">Yang–Baxter structures</span>
+        <span class="badge">Low-dimensional topology</span>
+        <span class="badge">Hopf–Galois</span>
+        <span class="badge">TQFT</span>
+        <span class="badge">Constraint programming</span>
+      </div>
+
+      <div class="cta-row">
+        <a class="button" href="summer-school/index.html">Summer School (June 2026)</a>
+        <a class="button secondary" href="people.html">Meet the team</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>Governance &amp; partners</h2>
+      <div class="kv">
+        <div class="k">Chair</div>
+        <div>Vrije Universiteit Brussel (VUB), Brussels (Belgium)</div>
+
+        <div class="k">Co-chair</div>
+        <div>University of Leeds, Leeds (United Kingdom)</div>
+
+        <div class="k">Contact persons</div>
+        <div>Leandro Vendramin (VUB) • Ilaria Colazzo (Leeds)</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Research themes</h2>
+      <div class="card-grid">
+        <div class="card"><h3>Discrete / set-theoretic Yang–Baxter equation</h3><p>We study discrete versions of the Yang–Baxter equation, their classifications, and the algebraic structures that arise from solutions.</p></div><div class="card"><h3>Low-dimensional topology & invariants</h3><p>We connect Yang–Baxter-type structures to knot theory and related low-dimensional topological constructions.</p></div><div class="card"><h3>Hopf–Galois structures & algebra</h3><p>We explore interactions with Hopf–Galois theory and related algebraic frameworks that encode symmetry and factorisation.</p></div><div class="card"><h3>Topological Quantum Field Theory (TQFT)</h3><p>We investigate links to quantum/topological field theories and the algebraic input needed to build and compare TQFT-style invariants.</p></div><div class="card"><h3>Computational & constraint programming methods</h3><p>We develop computational pipelines—especially constraint programming—to construct and search for solutions with prescribed properties.</p></div>
+      </div>
+      <p class="small" style="margin-top: 0.75rem;">
+        Want to collaborate or propose a student/postdoc visit? See <a href="contact.html">Contact</a>.
+      </p>
+    </section>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <script>
+    // Load shared header/footer (requires serving via a local server)
+    fetch('header.html').then(r => r.text()).then(html => document.getElementById('header-placeholder').innerHTML = html);
+    fetch('footer.html').then(r => r.text()).then(html => document.getElementById('footer-placeholder').innerHTML = html);
+  </script>
+</body>
+</html>

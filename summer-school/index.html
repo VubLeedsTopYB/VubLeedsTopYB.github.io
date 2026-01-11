@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VUB–Leeds Algebra Summer School (2026) — Overview</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="header-placeholder"></div>
+
+  <main>
+    <section class="hero">
+      <h2>Overview</h2>
+      <p class="subtitle">
+        A training week for MSc students, PhD students, postdocs, and researchers, featuring three mini-courses,
+        guided exercises, and a poster session.
+      </p>
+      <div class="badge-row">
+        <span class="badge">3 mini-courses</span>
+        <span class="badge">Exercises (problem sessions)</span>
+        <span class="badge">Poster session</span>
+        <span class="badge">Networking</span>
+      </div>
+      <div class="cta-row">
+        <a class="button" href="registration.html">Registration (TBA)</a>
+        <a class="button secondary" href="schedule.html">View draft programme</a>
+      </div>
+    </section>
+
+    <section>
+      <h2>Key information</h2>
+      <div class="kv">
+        <div class="k">Dates</div><div>8–12 June 2026</div>
+        <div class="k">City</div><div>Brussels, Belgium</div>
+        <div class="k">Venue</div><div>VUB campus (exact building/room: <em>TBA</em>)</div>
+        <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers</div>
+        <div class="k">Format</div><div>Three mini-courses (3h theory + 2h exercises each) + poster session</div>
+        <div class="k">Fees</div><div><em>TBA</em></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Mini-courses</h2>
+      <div class="card-grid">
+        <div class="card">
+          <h3>Basic Cluster theory</h3>
+          <p><strong>Instructor:</strong> Karin Baur <br>(<em>Ruhr-Universität Bochum & University of Leeds</em>)</p>
+        </div>
+        <div class="card">
+          <h3>Rack (co)homology</h3>
+          <p><strong>Instructor:</strong> Markus Szymik <br>(<em>University of Sheffield</em>)</p>
+        </div>
+        <div class="card">
+          <h3>Topological quantum theory</h3>
+          <p><strong>Instructor:</strong> Eric Rowell<br>(<em>Texas A&M University & University of Leeds</em>)</p>
+          <p>TBC</p>
+        </div>
+      </div>
+      <p class="small" style="margin-top: 0.75rem;">
+        Short abstracts and instructor bios will be added once confirmed.
+      </p>
+    </section>
+
+    <section>
+      <h2>Deadlines</h2>
+      <ul>
+        <li><strong>Registration:</strong> TBA</li>
+        <li><strong>Poster abstract submission:</strong> TBA</li>
+        <li><strong>Notification:</strong> TBA</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Code of conduct</h2>
+      <p>
+        We are committed to providing a welcoming, respectful, and inclusive environment for all participants,
+        regardless of background or identity. Please treat others with courtesy and professionalism, and respect
+        different viewpoints and experiences. Harassment, discrimination, intimidation, or disruptive behavior
+        are not tolerated.
+      </p>
+      <p class="small" style="margin-top: 0.5rem;">
+        If you experience or witness a concern, please contact the organisers (details on the <a href="organizers.html">Organizers</a> page).
+        Issues will be handled promptly and, when necessary, participants may be asked to leave the event.
+      </p>
+    </section>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <script>
+    fetch('header.html').then(r => r.text()).then(html => document.getElementById('header-placeholder').innerHTML = html);
+    fetch('footer.html').then(r => r.text()).then(html => document.getElementById('footer-placeholder').innerHTML = html);
+  </script>
+</body>
+</html>
