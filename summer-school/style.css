@@ -266,6 +266,17 @@ footer .lms-logo {
   margin-top: 1rem;
 }
 
+.card-grid--abstracts {
+  display: grid;              
+  grid-template-columns: 1fr; 
+  row-gap: 1.75rem; 
+  margin-top: 1rem;          
+}
+
+.card-grid--abstracts h4 {
+  margin-top: 0.8rem;
+}
+
 .card {
   border: 1px solid rgba(23, 30, 47, 0.12);
   border-radius: 12px;
@@ -281,6 +292,9 @@ footer .lms-logo {
 .card p {
   margin-bottom: 0.2rem;
 }
+
+
+
 
 .kv {
   display: grid;
