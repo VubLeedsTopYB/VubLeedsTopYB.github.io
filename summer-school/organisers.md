@@ -1,6 +1,6 @@
 ---
 layout: summer
-title: VUB–Leeds Algebra Summer School (2026) — Organisers
+title: VUB–Leeds Algebra School (2026) — Organisers
 ---
 
 <section class="hero">

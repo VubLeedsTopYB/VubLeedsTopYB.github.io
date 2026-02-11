@@ -31,7 +31,7 @@ title: topYB IJRG — Home
   </div>
 
   <div class="cta-row">
-    <a class="button" href="summer-school/index.html">Summer School (June 2026)</a>
+    <a class="button" href="summer-school/index.html">Algebra School (June 2026)</a>
     <a class="button secondary" href="people.html">Meet the team</a>
   </div>
 </section>

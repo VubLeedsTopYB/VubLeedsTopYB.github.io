@@ -1,12 +1,12 @@
 ---
 layout: summer
-title: VUB–Leeds Algebra Summer School (2026) — Location
+title: VUB–Leeds Algebra School (2026) — Location
 ---
 
 <section class="hero">
   <h2>Location &amp; travel</h2>
   <p class="subtitle">
-    The Summer School takes place in Brussels, Belgium, hosted by VUB. Practical details will be posted as they are confirmed.
+    The Algebra School takes place in Brussels, Belgium, hosted by VUB. Practical details will be posted as they are confirmed.
   </p>
 </section>
 
