@@ -1,0 +1,50 @@
+---
+layout: default
+title: topYB IJRG — Research
+---
+
+<section class="hero">
+  <h2>Research</h2>
+  <p class="subtitle">
+    topYB connects algebra, topology, and computation around discrete Yang–Baxter-type structures and their applications in
+    low-dimensional topology and related areas.
+  </p>
+  <div class="cta-row">
+    <a class="button secondary" href="people.html">Meet the members</a>
+    <a class="button" href="contact.html">Propose a collaboration</a>
+  </div>
+</section>
+
+<section>
+  <h2>Research themes</h2>
+  <div class="card-grid">
+    <div class="card">
+  <h3>Discrete / set-theoretic Yang–Baxter equation</h3>
+  <p>We study discrete versions of the Yang–Baxter equation, their classifications, and the algebraic structures that arise from solutions.</p>
+</div><div class="card">
+  <h3>Low-dimensional topology & invariants</h3>
+  <p>We connect Yang–Baxter-type structures to knot theory and related low-dimensional topological constructions.</p>
+</div><div class="card">
+  <h3>Hopf–Galois structures & algebra</h3>
+  <p>We explore interactions with Hopf–Galois theory and related algebraic frameworks that encode symmetry and factorisation.</p>
+</div><div class="card">
+  <h3>Topological Quantum Field Theory (TQFT)</h3>
+  <p>We investigate links to quantum/topological field theories and the algebraic input needed to build and compare TQFT-style invariants.</p>
+</div><div class="card">
+  <h3>Computational & constraint programming methods</h3>
+  <p>We develop computational pipelines—especially constraint programming—to construct and search for solutions with prescribed properties.</p>
+</div>
+  </div>
+</section>
+
+<section>
+  <h2>Active projects</h2>
+  <p>
+    We maintain a rolling list of active projects, visits, and student topics. Details will be added here as they are confirmed.
+  </p>
+  <ul>
+    <li><strong>Joint seminars &amp; visits</strong> — VUB ↔ Leeds exchanges (TBA).</li>
+    <li><strong>Student &amp; postdoc projects</strong> — supervised topics in algebra/topology/computation (TBA).</li>
+    <li><strong>Software &amp; computation</strong> — constraint-based construction and search workflows (TBA).</li>
+  </ul>
+</section>

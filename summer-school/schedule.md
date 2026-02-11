@@ -1,0 +1,176 @@
+---
+layout: summer
+title: VUB–Leeds Algebra Summer School (2026) — Programme
+mathjax: true
+---
+
+<section class="hero">
+  <h2>Programme</h2>
+  <p class="subtitle">
+    Draft schedule (subject to change). Each mini-course is planned as <strong>3 hours of theory</strong> and <strong>2 hours of exercises</strong>.
+  </p>
+</section>
+
+<section>
+  <h2>Daily structure</h2>
+  <ul>
+    <li><strong>09:00–10:00</strong> Theory session</li>
+    <li><strong>10:00–10:30</strong> Break</li>
+    <li><strong>10:30–11:30</strong> Theory or exercises</li>
+    <li><strong>12:00–14:00</strong> Lunch</li>
+    <li><strong>14:30–16:30</strong> Exercises / poster session</li>
+  </ul>
+</section>
+
+<!-- <section>
+  <h2>Draft timetable (8–12 June 2026)</h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Day</th><th>Time</th><th>Session</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Mon 8 Jun</td><td>09:00–10:00</td><td>Theory — Karin Baur</td></tr>
+<tr><td>Mon 8 Jun</td><td>10:00–10:30</td><td>Break</td></tr>
+<tr><td>Mon 8 Jun</td><td>10:30–11:30</td><td>Theory — Karin Baur</td></tr>
+<tr><td>Mon 8 Jun</td><td>12:00–14:00</td><td>Lunch</td></tr>
+<tr><td>Mon 8 Jun</td><td>14:30–16:30</td><td>Exercises — Karin Baur</td></tr>
+<tr><td>Tue 9 Jun</td><td>09:00–10:00</td><td>Theory — Karin Baur</td></tr>
+<tr><td>Tue 9 Jun</td><td>10:00–10:30</td><td>Break</td></tr>
+<tr><td>Tue 9 Jun</td><td>10:30–12:00</td><td>Exercises / problem session — Karin Baur</td></tr>
+<tr><td>Tue 9 Jun</td><td>12:00–14:00</td><td>Lunch</td></tr>
+<tr><td>Tue 9 Jun</td><td>14:30–16:30</td><td>Poster session</td></tr>
+<tr><td>Wed 10 Jun</td><td>09:00–10:00</td><td>Theory — Christoph Schweigert</td></tr>
+<tr><td>Wed 10 Jun</td><td>10:00–10:30</td><td>Break</td></tr>
+<tr><td>Wed 10 Jun</td><td>10:30–11:30</td><td>Theory — Markus Szymik</td></tr>
+<tr><td>Wed 10 Jun</td><td>12:00–14:00</td><td>Lunch</td></tr>
+<tr><td>Wed 10 Jun</td><td>14:30–16:30</td><td>Exercises — Christoph Schweigert</td></tr>
+<tr><td>Thu 11 Jun</td><td>09:00–10:00</td><td>Theory — Markus Szymik</td></tr>
+<tr><td>Thu 11 Jun</td><td>10:00–10:30</td><td>Break</td></tr>
+<tr><td>Thu 11 Jun</td><td>10:30–11:30</td><td>Theory — Christoph Schweigert</td></tr>
+<tr><td>Thu 11 Jun</td><td>12:00–14:00</td><td>Lunch</td></tr>
+<tr><td>Thu 11 Jun</td><td>14:30–16:30</td><td>Exercises — Markus Szymik</td></tr>
+<tr><td>Fri 12 Jun</td><td>09:00–10:00</td><td>Theory — Christoph Schweigert</td></tr>
+<tr><td>Fri 12 Jun</td><td>10:00–10:30</td><td>Break</td></tr>
+<tr><td>Fri 12 Jun</td><td>10:30–11:30</td><td>Theory — Markus Szymik</td></tr>
+<tr><td>Fri 12 Jun</td><td>12:00–14:00</td><td>Lunch</td></tr>
+<tr><td>Fri 12 Jun</td><td>14:30–16:30</td><td>Exercises / problem session — Markus & Eric (draft)</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="small" style="margin-top: 0.75rem;">
+    Poster guidelines and submission instructions: <em>TBA</em>.
+  </p>
+</section> -->
+
+<section>
+  <h2>Mini-course abstracts</h2>
+  <div class="card-grid--abstracts">
+    <div class="card">
+      <h3>Combinatorial surface models for cluster algebras and cluster categories</h3>
+      <p><strong>Instructor:</strong> Karin Baur</p>
+      <p>Surface combinatorics have been instrumental in describing algebraic structures such as cluster algebras and cluster categories, gentle algebras, etc. 
+          In this course, I will show how triangulations give rise to cluster algebras and to cluster categories. 
+          We will also study the combinatorial approach to Grassmannian cluster algebras and cluster categories. </p>
+      <p>Time permitted, we will also discuss how tilings of surfaces give gentle algebras and module categories. </p>
+    </div>
+    <div class="card">
+      <h3>Symmetric tensor categories</h3>
+      <p><strong>Instructor:</strong> Pavel Etingof (TBC)</p>
+      <h4>Lecture 1: Algebra and representation theory without vector spaces.</h4>
+      <p>A modern view of representation theory is that it is a study 
+        not just of individual representations (say, finite dimensional 
+        representations of an affine group or, more generally, supergroup scheme
+        \(G\) over an algebraically closed field \(k\)) but also of the category \(Rep(G)\) 
+        formed by them. The properties of \(Rep(G)\) can be summarized by saying 
+        that it is a symmetric tensor category (shortly, STC) which uniquely 
+        determines \(G\). A STC is a natural home for studying any kind of linear
+        algebraic structures (commutative algebras, Lie algebras, Hopf algebras,
+        modules over them, etc.); for instance, doing so in \(Rep(G)\) amounts to
+        studying such structures with a \(G\)-symmetry. It is therefore natural to
+        ask: does the study of STC reduce to group representation theory, or is
+        it more general? In other words, do there exist STC other than \(Rep(G)\)?
+        If so, this would be interesting, since algebra in such STC would be a
+        new kind of algebra, one "without vector spaces". Luckily, the answer
+        turns out to be ``yes". I will discuss examples in characteristic zero
+        and \(p>0\), and also Deligne's theorem, which puts restrictions on the kind 
+        of examples one can have.</p>
+        <h4>Lecture 2: Representation theory in non-integral rank.</h4>
+        <p>Examples of symmetric tensor categories over complex numbers which are
+not representation categories of supergroups were given by Deligne-Milne
+in 1981. These very interesting categories are interpolations of
+representation categories of classical groups \(GL(n)\), \(O(n)\), \(Sp(n)\) to
+arbitrary complex values of n. Deligne later generalized them to
+symmetric groups and also to characteristic $p$, where, somewhat
+unexpectedly, one needs to interpolate n to $p$-adic integer values rather
+than elements of the ground field. I will review some of the recent
+results on these categories and discuss algebra and representation
+theory in them.</p>
+        <h4>Lecture 3. Symmetric tensor categories of moderate growth and modular
+representation theory.</h4>
+<p>Deligne categories discussed in Lecture 2 violate an obvious necessary
+condition for a symmetric tensor category (STC) to have any realization
+by finite dimensional vector spaces (and in particular to be of the form
+$Rep(G)$): for each object $X$ the length of the n-th tensor power of $X$
+grows at most exponentially with $n$. We call this property "moderate
+growth". So it is natural to ask if there exist STC of moderate growth
+other than $Rep(G)$. In characteristic zero, the negative answer is given
+by the remarkable  theorem of Deligne (2002), discussed in Lecture 1.
+Namely Deligne's theorem says that a STC of moderate growth can always
+be realized in supervector spaces. However, in characteristic $p$ the
+situation is much more interesting. Namely, Deligne's theorem is known
+to fail in any characteristic $p>0$. The simplest exotic symmetric tensor
+category of moderate growth (i.e., not of the form $Rep(G)$) for $p>3$ is
+the semisimplification of the category of representations of $Z/p$, called
+the Verlinde category. For example, for $p=5$, this category has an object
+$X$ such that $X^2=X+1$, so $X$ cannot be realized by a vector space (as its
+dimension would have to equal the golden ratio). I will discuss some
+aspects of algebra in these categories, in particular failure of the PBW
+theorem for Lie algebras (and how to fix it) and a generalization of
+Deligne's theorem in characteristic p obtained by Coulembier, Ostrik and
+myself, with applications to modular representation theory. I will also
+discuss a family of non-semisimple exotic categories in characteristic p
+constructed in my joint work with Dave Benson and Victor Ostrik, and
+their relation to the representation theory of groups $(Z/p)^n$ over a
+field of characteristic $p$.</p>
+<h4>Lecture 4. Oligomorphic groups and tensor categories.
+</h4>
+<p>I will try to give a brief introduction to the work of Harman and Snowden about
+symmetric tensor categories attached to oligomorphic groups, in particular
+discuss the Delannoy category.
+</p>
+    </div>
+    <div class="card">
+      <h3>Algebraic and categorical structures for modular functors and
+quantum codes</h3>
+      <p><strong>Instructor:</strong> Christoph Schweigert (TBC)</p>
+      <p>We explain how the Kitaev model assigns, to a finite-dimensional
+semisimple Hopf algebra $H$ and a surface equipped with a triangulation,
+a quantum code. The protected subspaces of this code carry
+representations of the mapping class group of the surface, which can be
+used to construct quantum gates. This structure naturally organizes in
+terms of a modular  functor. Depending on time, we will extend this
+discussion to modular functors with defects. We will sketch some of
+their applications in representation theory and mathematical physics.</p>
+    </div>
+    <div class="card">
+      <h3>Homology of racks and quandles</h3>
+      <p><strong>Instructor:</strong> Markus Szymik</p>
+      <p>This series of lectures will delve into the homological aspects of racks and
+quandles, starting with the foundational concepts. We will define the canonical
+chain complexes and explore their low-dimensional homology and cohomology. By
+working through some examples by hand, we will uncover the strengths and
+limitations of the direct approach. We will then transition into a more
+conceptual and flexible framework inspired by Quillen's general theory. We
+explain a proof that this leads to the same result and show that it allows us
+to compute the entire integral homology of all permutation racks, for example.
+Throughout the exposition, we will compare the homology theories of racks and
+quandles with those of groups and group actions, illuminating their
+similarities and differences. This field is lush with unanswered questions and
+untrodden challenges. As we progress, we will highlight as many of them as
+possible to engage the audience with the theory and enable them to contribute
+to ongoing research.
+</p>
+    </div>
+  </div>
+</section>

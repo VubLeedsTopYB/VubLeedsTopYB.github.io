@@ -1,0 +1,30 @@
+---
+layout: summer
+title: VUB–Leeds Algebra Summer School (2026) — Registration
+---
+
+<section class="hero">
+  <h2>Registration</h2>
+  <p class="subtitle">
+    Registration details will be published here once the form and fees are finalised.
+  </p>
+</section>
+
+<!-- registration: https://forms.office.com/e/8y5uqrb7dj -->
+
+<section>
+  <h2>Status</h2>
+  <div class="notice">
+    <strong>TBA.</strong> Registration open/close dates, fees, and the registration link will be added soon.
+  </div>
+
+  <div class="kv" style="margin-top: 1rem;">
+    <div class="k">Registration</div><div><em>TBA</em></div>
+    <div class="k">Fees</div><div><em>TBA</em></div>
+    <div class="k">Capacity</div><div><em>TBA</em></div>
+  </div>
+
+  <p class="small" style="margin-top: 0.75rem;">
+    If the event is oversubscribed, selection criteria and notification timelines will be posted here.
+  </p>
+</section>

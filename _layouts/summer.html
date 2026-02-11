@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}{% if site.title %} | {{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ '/summer-school/style.css' | relative_url }}" />
+  {% if page.mathjax %}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)'], ['$', '$']],
+        displayMath: [['\\[', '\\]'], ['$$', '$$']]
+      }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+</head>
+<body>
+  {% include summer_header.html %}
+
+  <main>
+    {{ content }}
+  </main>
+
+  {% include summer_footer.html %}
+</body>
+</html>
