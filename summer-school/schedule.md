@@ -76,7 +76,7 @@ mathjax: true
     </div>
     <div class="card">
       <h3>Symmetric tensor categories</h3>
-      <p><strong>Instructor:</strong> Pavel Etingof (TBC)</p>
+      <p><strong>Instructor:</strong> Pavel Etingof</p>
       <h4>Lecture 1: Algebra and representation theory without vector spaces.</h4>
       <p>A modern view of representation theory is that it is a study 
         not just of individual representations (say, finite dimensional 
@@ -143,7 +143,7 @@ discuss the Delannoy category.
     <div class="card">
       <h3>Algebraic and categorical structures for modular functors and
 quantum codes</h3>
-      <p><strong>Instructor:</strong> Christoph Schweigert (TBC)</p>
+      <p><strong>Instructor:</strong> Christoph Schweigert</p>
       <p>We explain how the Kitaev model assigns, to a finite-dimensional
 semisimple Hopf algebra $H$ and a surface equipped with a triangulation,
 a quantum code. The protected subspaces of this code carry
