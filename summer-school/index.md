@@ -28,7 +28,7 @@ title: VUB–Leeds Algebra School (2026) — Overview
     <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus.</div>
     <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers. </div>
     <div class="k">Format</div><div>Four mini-courses + poster session.</div>
-    <div class="k">Fees</div><div>Registration is free for participants affiliated with VUB and EUR 50 for others. The fee will be used to cover coffee breaks and lunches.</div>
+    <div class="k">Fees</div><div><strong>Registration is now open</strong>. It is free for participants affiliated with VUB and EUR 50 for others. The fee will be used to partially cover coffee breaks and lunches.</div>
   </div>
 </section>
 
@@ -62,9 +62,9 @@ quantum codes</h3>
 <section>
   <h2>Deadlines</h2>
   <ul>
-    <li><strong>Registration:</strong> TBA</li>
-    <li><strong>Poster abstract submission:</strong> TBA</li>
-    <li><strong>Notification:</strong> TBA</li>
+    <li><strong>Registration:</strong>May 15.</li>
+    <li><strong>Poster abstract submission:</strong>April 15.</li>
+    <li><strong>Notification:</strong>April 15.</li>
   </ul>
 </section>
 
