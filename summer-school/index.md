@@ -25,7 +25,7 @@ title: VUB–Leeds Algebra School (2026) — Overview
   <div class="kv">
     <div class="k">Dates</div><div>8–12 June 2026</div>
     <div class="k">City</div><div>Brussels, Belgium</div>
-    <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus</em>)</div>
+    <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus)</div>
     <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers</div>
     <div class="k">Format</div><div>Four mini-courses + poster session</div>
     <div class="k">Fees</div><div><em>TBA</em></div>
