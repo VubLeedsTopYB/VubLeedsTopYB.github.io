@@ -6,8 +6,8 @@ title: VUB–Leeds Algebra School (2026) — Overview
 <section class="hero">
   <h2>Overview</h2>
   <p class="subtitle">
-    A training week for MSc students, PhD students, postdocs, and researchers, featuring four mini-courses,
-    guided exercises, and a poster session.
+    A training week for MSc students, PhD students, postdocs, and researchers,
+    featuring four mini-courses and a poster session.
   </p>
   <div class="badge-row">
     <span class="badge">4 mini-courses</span>
@@ -54,17 +54,14 @@ quantum codes</h3>
       <p><strong>Instructor:</strong> Markus Szymik <br>(<em>University of Sheffield</em>)</p>
     </div>
   </div>
-  <p class="small" style="margin-top: 0.75rem;">
-    Short abstracts and instructor bios will be added once confirmed.
-  </p>
 </section>
 
 <section>
   <h2>Deadlines</h2>
   <ul>
-    <li><strong>Registration:</strong>May 15.</li>
-    <li><strong>Poster abstract submission:</strong>April 15.</li>
-    <li><strong>Notification:</strong>April 15.</li>
+    <li><strong>Registration: </strong>May 15.</li>
+    <li><strong>Poster abstract submission: </strong>April 15.</li>
+    <li><strong>Notification: </strong>April 15.</li>
   </ul>
 </section>
 

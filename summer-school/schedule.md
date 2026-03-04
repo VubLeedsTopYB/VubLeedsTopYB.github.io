@@ -7,18 +7,19 @@ mathjax: true
 <section class="hero">
   <h2>Programme</h2>
   <p class="subtitle">
-    Draft schedule (subject to change). Each mini-course is planned as <strong>3 hours of theory</strong> and <strong>2 hours of exercises</strong>.
+  Draft schedule (subject to change): Each mini-course is planned to consist of
+  four hours of lectures.
   </p>
 </section>
 
 <section>
   <h2>Daily structure</h2>
   <ul>
-    <li><strong>09:00–10:00</strong> Theory session</li>
-    <li><strong>10:00–10:30</strong> Break</li>
-    <li><strong>10:30–11:30</strong> Theory or exercises</li>
+    <li><strong>09:00–10:00</strong> Course</li>
+    <li><strong>10:00–10:30</strong> Coffee break</li>
+    <li><strong>10:30–11:30</strong> Course</li>
     <li><strong>12:00–14:00</strong> Lunch</li>
-    <li><strong>14:30–16:30</strong> Exercises / poster session</li>
+    <li><strong>14:30–16:30</strong> Poster session</li>
   </ul>
 </section>
 
