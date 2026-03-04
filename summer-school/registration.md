@@ -6,25 +6,18 @@ title: VUB–Leeds Algebra Summer School (2026) — Registration
 <section class="hero">
   <h2>Registration</h2>
   <p class="subtitle">
-    Registration details will be published here once the form and fees are finalised.
+  Registration is free for participants affiliated with VUB and EUR 50 for others. The fee will be used to cover coffee breaks and lunches.
   </p>
 </section>
 
 <!-- registration: https://forms.office.com/e/8y5uqrb7dj -->
 
-<section>
-  <h2>Status</h2>
-  <div class="notice">
-    <strong>TBA.</strong> Registration open/close dates, fees, and the registration link will be added soon.
-  </div>
+## Status
 
-  <div class="kv" style="margin-top: 1rem;">
-    <div class="k">Registration</div><div><em>TBA</em></div>
-    <div class="k">Fees</div><div><em>TBA</em></div>
-    <div class="k">Capacity</div><div><em>TBA</em></div>
-  </div>
+#### Registration is open!
 
-  <p class="small" style="margin-top: 0.75rem;">
-    If the event is oversubscribed, selection criteria and notification timelines will be posted here.
-  </p>
-</section>
+Participants affiliated with VUB should register [here](https://www.vub.be/en/form/algebra-school-free).  All other
+participants are required to pay a registration fee of EUR 50 and register
+[here](https://www.vub.be/en/form/algebra-school).
+
+

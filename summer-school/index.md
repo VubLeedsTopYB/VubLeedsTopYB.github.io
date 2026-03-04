@@ -15,7 +15,7 @@ title: VUB–Leeds Algebra School (2026) — Overview
     <span class="badge">Networking</span>
   </div>
   <div class="cta-row">
-    <a class="button" href="registration.html">Registration (TBA)</a>
+    <a class="button" href="registration.html">Registration</a>
     <a class="button secondary" href="schedule.html">View draft programme</a>
   </div>
 </section>
@@ -23,12 +23,12 @@ title: VUB–Leeds Algebra School (2026) — Overview
 <section>
   <h2>Key information</h2>
   <div class="kv">
-    <div class="k">Dates</div><div>8–12 June 2026</div>
-    <div class="k">City</div><div>Brussels, Belgium</div>
-    <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus)</div>
-    <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers</div>
-    <div class="k">Format</div><div>Four mini-courses + poster session</div>
-    <div class="k">Fees</div><div><em>TBA</em></div>
+    <div class="k">Dates</div><div>8–12 June 2026.</div>
+    <div class="k">City</div><div>Brussels, Belgium.</div>
+    <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus.</div>
+    <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers. </div>
+    <div class="k">Format</div><div>Four mini-courses + poster session.</div>
+    <div class="k">Fees</div><div>Registration is free for participants affiliated with VUB and EUR 50 for others. The fee will be used to cover coffee breaks and lunches.</div>
   </div>
 </section>
 
