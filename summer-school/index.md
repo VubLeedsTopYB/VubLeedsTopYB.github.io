@@ -65,6 +65,38 @@ quantum codes</h3>
   </ul>
 </section>
 
+## How to get to Brussels
+
+By plane - Brussels has two international airports: Brussels Zaventem (BRU) and
+Brussels South Charleroi (CRL).  Brussels Zaventem is well-connected to the
+city by train and by bus. From Brussels Charleroi there are numerous Flibco
+Shuttle buses leading directly to Bruxelles-Midi or trains from Charleroi city
+to Bruxelles Central and Midi.
+
+By train - Brussels has many train stations. The main ones are Bruxelles-Midi
+(which is reached by high-speed trains such as Eurostars or TGVs) and
+Bruxelles-Central.
+
+## Where to stay in Bruxelles
+
+As there are very few hotels close to the campus, we suggest to choose an hotel
+closer to the city center. Here is a short list of possible alternatives:
+
+* NH collection Brussels Grand Sablon
+* NH Brussels Carrefour de L’Europe
+* Hilton Brussels Grand Place
+* ibis Hotel Brussels off Grand Place
+* Pillows City Hotel Brussels Centre
+* Argus Hotel
+* Hôtel Chambord
+* Aqua Hotel
+* Hotel Barsey by Warwick
+* Best Western City Centre
+
+## Funding 
+
+Unfortunately, we cannot provide financial support for participants.
+
 <section>
   <h2>Code of conduct</h2>
   <p>
