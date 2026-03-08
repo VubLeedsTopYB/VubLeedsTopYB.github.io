@@ -58,17 +58,18 @@ Bruxelles-Central.
 <p>
 As there are very few hotels close to the campus, we suggest to choose an hotel
 closer to the city center. Here is a short list of possible alternatives:
-
-* NH collection Brussels Grand Sablon
-* NH Brussels Carrefour de L’Europe
-* Hilton Brussels Grand Place
-* ibis Hotel Brussels off Grand Place
-* Pillows City Hotel Brussels Centre
-* Argus Hotel
-* Hôtel Chambord
-* Aqua Hotel
-* Hotel Barsey by Warwick
-* Best Western City Centre
+<ul>
+  <li>NH collection Brussels Grand Sablon</li>
+  <li>NH Brussels Carrefour de L'Europe</li>
+  <li>Hilton Brussels Grand Place</li>
+  <li>ibis Hotel Brussels off Grand Place</li>
+  <li>Pillows City Hotel Brussels Centre</li>
+  <li>Argus Hotel</li>
+  <li>Hôtel Chambord</li>
+  <li>Aqua Hotel</li>
+  <li>Hotel Barsey by Warwick</li>
+  <li>Best Western City Centre</li>
+</ul>
 </p>
 </section>
 
