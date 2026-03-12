@@ -19,24 +19,52 @@ title: topYB IJRG — People
   <h2>VUB (Brussels)</h2>
   <div class="speaker-grid">
     <div class="speaker">
-  <img src="img/placeholder.png" alt="Leandro Vendramin">
+  <img src="img/placeholder.png" alt="Leandro Vendramin" />
   <div class="speaker-name">Leandro Vendramin</div>
   <div class="speaker-affiliation">VUB (Belgium)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="Andrew Darlington">
+  <img src="img/placeholder.png" alt="Andrew Darlington" />
   <div class="speaker-name">Andrew Darlington</div>
   <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="Kevin Piterman">
+  <img src="img/placeholder.png" alt="Carsten Dietzel" />
+  <div class="speaker-name">Carsten Dietzel</div>
+  <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Kevin Piterman" />
   <div class="speaker-name">Kevin Piterman</div>
   <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="Magdalena Wiertel">
+  <img src="img/placeholder.png" alt="Magdalena Wiertel" />
   <div class="speaker-name">Magdalena Wiertel</div>
   <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
 </div>
-  </div>
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Silvia Properzi" />
+  <div class="speaker-name">Silvia Properzi</div>
+  <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Charlotte Roelants" />
+  <div class="speaker-name">Charlotte Roelants</div>
+  <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Lukas Simons" />
+  <div class="speaker-name">Lukas Simons</div>
+  <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Thomas Letourmy" />
+  <div class="speaker-name">Thomas Letourmy</div>
+  <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+</div><div class="speaker">
+  <img src="img/placeholder.png" alt="Davide Ferri" />
+  <div class="speaker-name">Davide Ferri</div>
+  <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+</div>
 </section>
+
 
 <section>
   <h2>University of Leeds</h2>
