@@ -81,7 +81,7 @@ Unfortunately, we cannot provide financial support for participants.
     are not tolerated.
   </p>
   <p class="small" style="margin-top: 0.5rem;">
-    If you experience or witness a concern, please contact the organisers (details on the <a href="organizers.html">Organizers</a> page).
+    If you experience or witness a concern, please contact the organisers (details on the <a href="organisers.html">Organisers</a> page).
     Issues will be handled promptly and, when necessary, participants may be asked to leave the event.
   </p>
 </section>
