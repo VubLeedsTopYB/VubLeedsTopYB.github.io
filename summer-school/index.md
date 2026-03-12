@@ -21,6 +21,20 @@ title: VUB–Leeds Algebra School (2026) — Overview
 </section>
 
 <section>
+  <h2>Poster</h2>
+  <div style="text-align: center;">
+    <img
+      src="poster.jpg"
+      alt="Poster for the VUB–Leeds Algebra School 2026"
+      style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"
+    />
+    <p style="margin-top: 1rem;">
+      <a class="button secondary" href="poster.pdf" download>Download printable poster (PDF)</a>
+    </p>
+  </div>
+</section>
+
+<section>
   <h2>Key information</h2>
   <div class="kv">
     <div class="k">Dates</div><div>8–12 June 2026.</div>
