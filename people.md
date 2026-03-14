@@ -55,7 +55,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/charlotte.png" alt="Charlotte Roelants" />
+      <img src="img/charlotte.jpg" alt="Charlotte Roelants" />
       <div class="speaker-name">Charlotte Roelants</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
@@ -70,7 +70,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/yufei.png" alt="Yufei Qin" />
+      <img src="img/yufei.jpg" alt="Yufei Qin" />
       <div class="speaker-name">Yufei Qin</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
