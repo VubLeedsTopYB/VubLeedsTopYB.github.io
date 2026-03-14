@@ -19,22 +19,28 @@ title: topYB IJRG — People
   <h2>VUB (Brussels)</h2>
   <div class="speaker-grid">
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Leandro Vendramin" />
+      <img src="img/leandro.jpg" alt="Leandro Vendramin" />
       <div class="speaker-name">Leandro Vendramin</div>
       <div class="speaker-affiliation">VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Andrew Darlington" />
+      <img src="img/andrew.jpg" alt="Andrew Darlington" />
       <div class="speaker-name">Andrew Darlington</div>
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Carsten Dietzel" />
+      <img src="img/carsten.jpg" alt="Carsten Dietzel" />
       <div class="speaker-name">Carsten Dietzel</div>
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Kevin Piterman" />
+      <img src="img/meijun.jpg" alt="Meijun Liu" />
+      <div class="speaker-name">Meijun Liu</div>
+      <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
+    </div>
+
+    <div class="speaker">
+      <img src="img/kevin.jpg" alt="Kevin Piterman" />
       <div class="speaker-name">Kevin Piterman</div>
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
   </div>
@@ -44,12 +50,12 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Silvia Properzi" />
+      <img src="img/silvia.jpg" alt="Silvia Properzi" />
       <div class="speaker-name">Silvia Properzi</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Charlotte Roelants" />
+      <img src="img/charlotte.png" alt="Charlotte Roelants" />
       <div class="speaker-name">Charlotte Roelants</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
@@ -61,6 +67,11 @@ title: topYB IJRG — People
     <div class="speaker">
       <img src="img/placeholder.png" alt="Thomas Letourmy" />
       <div class="speaker-name">Thomas Letourmy</div>
+      <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
+    </div>
+    <div class="speaker">
+      <img src="img/yufei.png" alt="Yufei Qin" />
+      <div class="speaker-name">Yufei Qin</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
