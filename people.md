@@ -45,7 +45,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
   </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Magdalena Wiertel" />
+      <img src="img/magdalena.jpg" alt="Magdalena Wiertel" />
       <div class="speaker-name">Magdalena Wiertel</div>
       <div class="speaker-affiliation">Postdoc — VUB (Belgium)</div>
     </div>
