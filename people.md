@@ -75,7 +75,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Davide Ferri" />
+      <img src="img/davide.jpg" alt="Davide Ferri" />
       <div class="speaker-name">Davide Ferri</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
