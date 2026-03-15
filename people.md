@@ -60,7 +60,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Lukas Simons" />
+      <img src="img/lukas.jpg" alt="Lukas Simons" />
       <div class="speaker-name">Lukas Simons</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
