@@ -65,7 +65,7 @@ title: topYB IJRG — People
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
     <div class="speaker">
-      <img src="img/placeholder.png" alt="Thomas Letourmy" />
+      <img src="img/thomas.jpg" alt="Thomas Letourmy" />
       <div class="speaker-name">Thomas Letourmy</div>
       <div class="speaker-affiliation">PhD — VUB (Belgium)</div>
     </div>
