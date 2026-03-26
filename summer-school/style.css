@@ -348,3 +348,10 @@ footer .lms-logo {
   gap: 0.75rem;
   margin-top: 1rem;
 }
+
+.poster-banner {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
