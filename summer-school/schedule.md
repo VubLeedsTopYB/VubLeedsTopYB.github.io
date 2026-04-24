@@ -153,6 +153,27 @@ used to construct quantum gates. This structure naturally organizes in
 terms of a modular  functor. Depending on time, we will extend this
 discussion to modular functors with defects. We will sketch some of
 their applications in representation theory and mathematical physics.</p>
+<p>
+<b>Kitaev models</b>. Recap Hopf algebras. 
+The Kitaev model from a semisimple Hopf algebra. 
+What are codes and in which sense does the
+Kitaev model provide a quantum code. 
+Bonus material: Kitaev with defects.
+
+<p><b>State sum models</b>. 
+Hopf algebra -> Tensor category. 
+State-sum construction. 
+Two applications: 
+<ol>
+<li>PEPS states (this needs bimodule categories).</li>
+<li>Go back to Hopf algebras via Kuperberg invariants.</li>
+</ol>
+</p>
+
+<p><b>String net models</b>. Graphical calculus. 
+String-net models as double functors. CFT correlators as vertical morphisms of double
+functors. 
+</p>
     </div>
     <div class="card">
       <h3>Homology of racks and quandles</h3>
