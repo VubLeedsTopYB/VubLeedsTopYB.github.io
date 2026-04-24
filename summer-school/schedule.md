@@ -141,11 +141,12 @@ symmetric tensor categories attached to oligomorphic groups, in particular
 discuss the Delannoy category.
 </p>
     </div>
-    <div class="card">
-      <h3>Algebraic and categorical structures for modular functors and
-quantum codes</h3>
+    
+<div class="card">
+      <h3>Algebraic and categorical structures for modular functors and quantum codes</h3>
       <p><strong>Instructor:</strong> Christoph Schweigert</p>
-      <p>We explain how the Kitaev model assigns, to a finite-dimensional
+     
+<p>We explain how the Kitaev model assigns, to a finite-dimensional
 semisimple Hopf algebra $H$ and a surface equipped with a triangulation,
 a quantum code. The protected subspaces of this code carry
 representations of the mapping class group of the surface, which can be
@@ -159,7 +160,7 @@ The Kitaev model from a semisimple Hopf algebra.
 What are codes and in which sense does the
 Kitaev model provide a quantum code. 
 Bonus material: Kitaev with defects.
-
+</p>
 <p><b>State sum models</b>. 
 Hopf algebra -> Tensor category. 
 State-sum construction. 
@@ -169,13 +170,16 @@ Two applications:
 <li>Go back to Hopf algebras via Kuperberg invariants.</li>
 </ol>
 </p>
-
-<p><b>String net models</b>. Graphical calculus. 
-String-net models as double functors. CFT correlators as vertical morphisms of double
-functors. 
+<p>
+<strong>String net models</strong>
+Graphical calculus.
+String-net models as double functors.
+CFT correlators as vertical morphisms of double
+functors.
 </p>
-    </div>
-    <div class="card">
+
+</div>
+<div class="card">
       <h3>Homology of racks and quandles</h3>
       <p><strong>Instructor:</strong> Markus Szymik</p>
       <p>This series of lectures will delve into the homological aspects of racks and

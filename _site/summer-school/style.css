@@ -355,3 +355,15 @@ footer .lms-logo {
   height: auto;
   margin: 1rem auto;
 }
+
+ol {
+  margin: 0;
+  padding-left: 1.5rem;
+  list-style-position: outside;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+}
