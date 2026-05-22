@@ -42,7 +42,7 @@ title: VUB–Leeds Algebra School (2026) — Overview
     <div class="k">Venue</div><div>LIC.0.04 Learning Theatre - Etterbeek Campus.</div>
     <div class="k">Audience</div><div>MSc / PhD / Postdoc / Researchers. </div>
     <div class="k">Format</div><div>Four mini-courses + poster session.</div>
-    <div class="k">Fees</div><div><strong>Registration is now open</strong>. It is free for participants affiliated with VUB and EUR 50 for others. The fee will be used to partially cover coffee breaks and lunches.</div>
+    <div class="k">Fees</div><div><strong>Registration is now closed</strong>. </div>
   </div>
 </section>
 
