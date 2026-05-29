@@ -15,8 +15,9 @@ title: VUB–Leeds Algebra School (2026) — Overview
     <span class="badge">Networking</span>
   </div>
   <div class="cta-row">
-    <a class="button" href="registration.html">Registration</a>
-    <a class="button secondary" href="schedule.html">View draft programme</a>
+    <!-- <a class="button" href="registration.html">Registration</a> -->
+    <a class="button" href="programme.html">View programme</a>
+    <a class="button secondary" href="schedule.html">View schedule</a>
   </div>
 </section>
 
