@@ -46,14 +46,14 @@ mathjax: true
           <td class="day">Tue 9 Jun</td>
           <td>
             09:30–10:30 Pavel Etingof<br>
-            10:30–11:00 Coffee break<br>
-            11:00–12:00 Christoph Schweigert
+            10:30–11:30 Coffee break and institutional greetings<br>
+            11:30–12:30 Christoph Schweigert
           </td>
           <td>
             12:00–14:00 Lunch<br>
             14:30–15:30 Pavel Etingof<br>
-            15:30–16:00 Coffee break<br>
-            16:00–17:00 Christoph Schweigert
+            15:30–16:30 Christoph Schweigert</br>
+            17:00–18:30 Free beer tasting for registered participants only, Building G, room G.6.60.
           </td>
         </tr>
 
