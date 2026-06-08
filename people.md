@@ -87,23 +87,23 @@ title: topYB IJRG — People
   <h2>University of Leeds</h2>
   <div class="speaker-grid">
     <div class="speaker">
-  <img src="img/placeholder.png" alt="Ilaria Colazzo">
+  <img src="img/ilaria.jpg" alt="Ilaria Colazzo">
   <div class="speaker-name">Ilaria Colazzo</div>
   <div class="speaker-affiliation">University of Leeds (United Kingdom)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="João Faria-Martins">
+  <img src="img/joao.jpg" alt="João Faria-Martins">
   <div class="speaker-name">João Faria-Martins</div>
   <div class="speaker-affiliation">University of Leeds (United Kingdom)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="Francesca Fedele">
+  <img src="img/francesca.jpg" alt="Francesca Fedele">
   <div class="speaker-name">Francesca Fedele</div>
   <div class="speaker-affiliation">Postdoc — University of Leeds (United Kingdom)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="Hal Simpson">
+  <img src="img/hal.jpg" alt="Hal Simpson">
   <div class="speaker-name">Hal Simpson</div>
   <div class="speaker-affiliation">PhD — University of Leeds (United Kingdom)</div>
 </div><div class="speaker">
-  <img src="img/placeholder.png" alt="George Altman">
+  <img src="img/george.png" alt="George Altman">
   <div class="speaker-name">George Altman</div>
   <div class="speaker-affiliation">PhD — University of Leeds (United Kingdom)</div>
 </div>

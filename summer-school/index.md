@@ -21,6 +21,11 @@ title: VUB–Leeds Algebra School (2026) — Overview
   </div>
 </section>
 
+<section class="hero">
+<h2>Announcement</h2>
+Slides, exercises, and other course materials are available on the Programme page, where they are linked under the corresponding speakers and lectures.
+</section>
+
 <section>
   <h2>Poster</h2>
   <div style="text-align: center;">
@@ -71,21 +76,6 @@ quantum codes</h3>
   </div>
 </section>
 
-<section>
-  <h2>Deadlines</h2>
-  <ul>
-    <li><strong>Registration: </strong>May 15.</li>
-    <li><strong>Poster abstract submission: </strong>April 15.</li>
-    <li><strong>Notification: </strong>April 15.</li>
-  </ul>
-</section>
-
-<section>
-<h2>Funding</h2>
-<p>
-Unfortunately, we cannot provide financial support for participants.
-</p>
-</section>
 
 <section>
   <h2>Code of conduct</h2>
