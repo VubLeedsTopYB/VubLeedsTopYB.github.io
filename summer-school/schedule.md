@@ -51,16 +51,10 @@ mathjax: true
           </td>
           <td>
             12:00–14:00 Lunch<br>
-<<<<<<< HEAD
             14:00–15:00 Pavel Etingof<br>
             15:00-15:30 break<br>
             15:30–16:30 Christoph Schweigert</br>
             17:00–18:30 Free beer tasting, Building G, room G.6.60.
-=======
-            14:30–15:30 Pavel Etingof<br>
-            15:30–16:30 Christoph Schweigert<br>
-            17:00–18:30 Free beer tasting for registered participants only, Building G, room G.6.60.
->>>>>>> 72616bf4b3ca748f9f0a0cd1528f6e8e231ed3bc
           </td>
         </tr>
 
