@@ -18,6 +18,7 @@ mathjax: true
     <div class="card">
       <h3>Symmetric tensor categories</h3>
       <p><strong>Instructor:</strong> Pavel Etingof</p>
+      <p><a href="pdfs/etingof.pdf">Slides</a></p>
       <h4>Lecture 1: Algebra and representation theory without vector spaces.</h4>
       <p>A modern view of representation theory is that it is a study 
         not just of individual representations (say, finite dimensional 
@@ -36,7 +37,6 @@ mathjax: true
         turns out to be ``yes". I will discuss examples in characteristic zero
         and \(p>0\), and also Deligne's theorem, which puts restrictions on the kind 
         of examples one can have.</p>
-        <p><a href="pdfs/etingof1.pdf">Slides</a></p>
         <h4>Lecture 2: Representation theory in non-integral rank.</h4>
         <p>Examples of symmetric tensor categories over complex numbers which are
 not representation categories of supergroups were given by Deligne-Milne
