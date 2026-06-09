@@ -86,6 +86,7 @@ discuss the Delannoy category.
 <div class="card">
       <h3>Algebraic and categorical structures for modular functors and quantum codes</h3>
       <p><strong>Instructor:</strong> Christoph Schweigert</p>
+      <p><a href="Schweigert.pdf">Notes</a></p>
      
 <p>We explain how the Kitaev model assigns, to a finite-dimensional
 semisimple Hopf algebra $H$ and a surface equipped with a triangulation,
