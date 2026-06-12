@@ -18,9 +18,21 @@ To present a poster, please send the title and a short abstract of your poster b
 
 ## Best Poster Prize
 
-<p>
-A small prize will be awarded for the best poster.
-</p>
+<section>
+  <div style="text-align: center;">
+    <img
+      src="img/prizes.jpg"
+      alt="Prizes winner"
+      style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"
+    />
+  </div>
+  <h3>Winners</h3>
+  <ul>
+  <li>Deepanshi Saraf, <b>Bounded Cohomology of Algebraic Structures in Knot Theory</b></li>
+  <li>Andra Albano, <b>On the representation theory of skew braces</b></li>
+  <li>Joachim Slembrouck, <b>When are non-associative algebras associative?</b></li>
+  </ul>
+</section>
 
 <br>
 
@@ -28,3 +40,4 @@ A small prize will be awarded for the best poster.
 <p><strong>Best poster prize supported by <em>Open Mathematics</em></strong></p>
 <img src="img/banner.svg" alt="Open Mathematics banner" class="poster-banner">
 </center>
+
