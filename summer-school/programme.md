@@ -11,6 +11,7 @@ mathjax: true
       <h3>Combinatorial surface models for cluster algebras and cluster categories</h3>
       <p><strong>Instructor:</strong> Karin Baur</p>
       <p><a href="pdfs/Baur-exercises.pdf">Exercises</a></p>
+      <p><a href="pdfs/Baur_notes.pdf">Notes</a></p>
       <p>Surface combinatorics have been instrumental in describing algebraic structures such as cluster algebras and cluster categories, gentle algebras, etc. 
           In this course, I will show how triangulations give rise to cluster algebras and to cluster categories. 
           We will also study the combinatorial approach to Grassmannian cluster algebras and cluster categories. </p>
@@ -145,6 +146,7 @@ to ongoing research.
 <li><a href="https://szymik.github.io/horaq1web.pdf">Lecture 1</a></li>
 <li><a href="https://szymik.github.io/horaq2web.pdf">Lecture 2</a></li>
 <li><a href="https://szymik.github.io/horaq3web.pdf">Lecture 3</a></li>
+<li><a href="https://szymik.github.io/horaq4web.pdf">Lecture 4</a></li>
 </ul>
     </div>
   </div>
