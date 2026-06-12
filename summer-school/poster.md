@@ -28,8 +28,8 @@ To present a poster, please send the title and a short abstract of your poster b
   </div>
   <h3>Winners</h3>
   <ul>
-  <li>Deepanshi Saraf, <b>Bounded Cohomology of Algebraic Structures in Knot Theory</b></li>
-  <li>Andrea Albano, <b>On the representation theory of skew braces</b></li>
+  <li>Deepanshi Saraf, <b>Bounded Cohomology of Algebraic Structures in Knot Theory.</b></li>
+  <li>Andrea Albano, <b>On the representation theory of skew braces.</b></li>
   <li>Joachim Slembrouck, <b>When are non-associative algebras associative?</b></li>
   </ul>
 </section>
