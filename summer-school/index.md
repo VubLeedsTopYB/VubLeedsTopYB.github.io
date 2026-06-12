@@ -84,9 +84,6 @@ quantum codes</h3>
       alt="Conference picture"
       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"
     />
-    <p style="margin-top: 1rem;">
-      <a class="button secondary" href="img/poster.pdf" download>Download printable poster (PDF)</a>
-    </p>
   </div>
 </section>
 
